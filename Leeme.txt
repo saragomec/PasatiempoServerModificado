@@ -1,0 +1,13 @@
+Sara Gómez Cid - 45160551M
+
+Descripción de recursos utilizados para la practica:
+	-La base de datos phpMyAdmin, una vez importado el fichero script .sql incluido en la carpeta principal de la práctica si vamos en la carpeta al archivo "connectionn.php" en la linea 8 podremos ver y modificar las credenciales:
+		$this->connectionnBase = @new mysqli("localhost", "root", "", "pasatiempobbdd" );
+	-El gestor de bases de datos XAMP
+	-Leguajes de programación: JavaScript y Php
+
+Despliegue de la práctica:
+	-Ejecutamos la aplicación guardada en la carpeta PasatiempoCascadaServer en la ruta C:\xampp\htdocs
+	-A continuación en el navegador (utilizado para pruebas Google Chrome) escribimos: http://localhost/ y nos saldría un menu con las carpetas o proyectos guardados en htdocs
+	-Seleccionamos la carpeta PasatiempoCascadaServer y nos abrirá la aplicación con todas sus respectivas funciones. Seleccionamos cualquiera de los tres pasatiempos implementados a resolver.
+
